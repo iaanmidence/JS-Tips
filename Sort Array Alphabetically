@@ -1,5 +1,42 @@
 Use the correct Array method to sort the fruits array alphabetically:
 
 
+
+
+Ex 1:
+
 const fruits = ["Banana", "Orange", "Apple", "Kiwi"];
 fruits.sort();
+
+
+
+
+
+Ex 2:
+
+const movies = ["The Godfather", "Biutiful", "Sheherazade"];
+movies.sort[];
+
+
+
+
+Ex 3:
+
+const pastaIngredients = ["Butter", "Tomato", "Beans"];
+pastaIngredients.sort[];
+
+
+
+
+Ex 4:
+
+const favSongs = ["She", "I know", "Viertele flor"];
+favSongs.sort[];
+
+
+
+
+Ex 5:
+
+const familyMembers = ["Santi", "Mãe", "Pai", "Ivy"];
+familyMembers.sort[];
